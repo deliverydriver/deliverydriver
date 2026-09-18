@@ -195,20 +195,12 @@ Also in the same AWS set:
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deliverydriver&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=F59E0B&text_color=E5E7EB&ring_color=22D3EE" alt="GitHub stats"/>
+  <img src="./stats.svg" alt="GitHub stats" />
+  <img src="./langs.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliverydriver&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E5E7EB" alt="Top languages"/>
   <img src="https://streak-stats.demolab.com?user=deliverydriver&hide_border=true&background=0B1220&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deliverydriver&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Contribution graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deliverydriver&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub trophies"/>
 </p>
 
 ---

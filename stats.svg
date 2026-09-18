@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img">
+<style>
+  .title { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #22D3EE; }
+  .label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #94A3B8; }
+  .value { font: 700 20px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E5E7EB; }
+  .barlab { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E5E7EB; }
+  .pct { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #94A3B8; }
+</style>
+<rect width="495" height="195" rx="12" fill="#0B1220" stroke="#1E3A4C"/><text class="title" x="24" y="36">deliverydriver stats</text><line x1="24" y1="48" x2="471" y2="48" stroke="#22D3EE" stroke-opacity="0.35"/><text class="label" x="24" y="80">Contributions this year</text><text class="value" x="24" y="104">2,441</text><text class="label" x="264" y="80">Owned repositories</text><text class="value" x="264" y="104">26</text><text class="label" x="24" y="132">Stars</text><text class="value" x="24" y="156">4</text><text class="label" x="264" y="132">GitHub since</text><text class="value" x="264" y="156">2017</text></svg>
