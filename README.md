@@ -211,16 +211,6 @@ Also in the same AWS set:
   <img src="https://github-profile-trophy.vercel.app/?username=deliverydriver&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub trophies"/>
 </p>
 
-### Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deliverydriver/deliverydriver/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deliverydriver/deliverydriver/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deliverydriver/deliverydriver/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ---
 
 <p align="center">
